@@ -27,7 +27,7 @@ a:visited{
     color:#800080
 }
 .item I{
-    position:absolute;
+    position: fixed;
     top:50%;
     left:50%;
     transform:translate(-50%,-50%);
